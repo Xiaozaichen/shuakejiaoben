@@ -6,3 +6,4 @@ https://github.com/kitsch231/pytorch_fake_news_Classification_mml/tree/master
 https://github.com/XavierSpycy/MultiCLIP
 Underwater Mobility Positioning for Coverage Planning with Floating Anchor Node External Correction
 https://blog.csdn.net/weixin_44791964/article/details/129941386
+Underwater Mobility Positioning for Coverage Planning with Floating Anchor Node External Correction
